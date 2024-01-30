@@ -5,6 +5,8 @@ This Project is on online shop that you can manage to add customer or order or i
 and this is the class diagram :
 ![class-diagram](https://github.com/Amirjaz/AP-Project/assets/119691206/6edde394-20dd-42ab-aed6-7a7a5e857a6f)
 and this is the sequnece diagram from my project:
-![sequence-diagram](https://github.com/Amirjaz/AP-Project/assets/119691206/6f1e3243-65b4-45f5-9c6f-4ca802094596)
+[sequence-diagram.zip](https://github.com/Amirjaz/AP-Project/files/14096822/sequence-diagram.zip)
+
+
 
 
